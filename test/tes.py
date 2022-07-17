@@ -1,6 +1,0 @@
-import spark import 
-
-
-val data = Seq(("Java", "20000"), ("Python", "100000"), ("Scala", "3000"))
-val df = data.toDF() 
-df.show()
